@@ -1,11 +1,13 @@
 # EX.-3-FORMATION-OF-BUS-IMPEDANCE-MATRIX-
-Aim: To write a computer program to form Bus Impedance matrix Z, given the impedances 
+# AIM: 
+To write a computer program to form Bus Impedance matrix Z, given the impedances 
 of a power network and their connectivity.
 
-Software Required: 
+# SOFTWARE REQUIRED: 
 Mat Lab Software. 
+
+# ALGORITHM: 
 ```
-Algorithm: 
 Step wise procedure to build “Z” Matrix. 
 Step 1 : 
 Start with a partial network composed only of those elements connected directly to reference 
@@ -67,6 +69,8 @@ end;
 end; 
 ZBUS=Zbus
 ```
-Result: 
+# OUTPUT:
+
+# RESULT: 
 Bus impedance Matrix for the given network is formed using Mat Lab program and 
 verified the calculated values with the output result.
